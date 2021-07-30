@@ -5,7 +5,7 @@
 - 💊 I’m currently learning Python and Vue.js. (interested in solidity or something)
 - 🎫 I’m looking for a job!
 - 📡 My website is https://ee.escapefrominsomnia.com (my own server!)
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://twitter.com/el3ctricpenguin
 
 <!---
 el3ctricpenguin/el3ctricpenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
