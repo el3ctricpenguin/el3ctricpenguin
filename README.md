@@ -1,10 +1,9 @@
 - 🙄 Hi, I’m @el3ctricpenguin.
 - ⛩ I'm living in Japan.
 - 🏛 I'm an student learning architecture. (However, actually I don't like it so much...) 
-- 🙌 I'm a Japanese/English/HTML/CSS/JS/Python speaker. (luv graphic design/modeling/generative art..., working on my portfolio now) 
-- 💊 I’m currently learning Python and Vue.js. (interested in solidity or something)
-- 🎫 **I’m looking for a job!**(I'll graduate the university in Mar. 2022...)
-- 📡 My website is https://ee.escapefrominsomnia.com (my own server!)
+- 🙌 I use Japanese/English/HTML/CSS/JS/Python. (luv graphic design/modeling/generative art..., working on my portfolio now) 
+- 💊 I’m currently learning Python.
+- 📡 My website is https://ee.escapefrominsomnia.com
 - 📫 How to reach me ... https://twitter.com/el3ctricpenguin
 
 <!---
